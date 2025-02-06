@@ -25,6 +25,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)
 ![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
+![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-4D4DFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABIElEQVR42mNgGCyA7h2A/HMnYMzA2MrAxMDAwACzACowmAHI+YAYjS2rsxA7F4ikIIwDQ+Awvwr3JwMDDH4vw3JDvAGLDBlhgC5ib8XgMRZdgBiw2Z9V/i6ghWQCwxkCwr/nrwPy/vt5Ak8WBjC2RmUqAxFm4DKYAqDlAt7ArETpFFAYhiwXmBGC8I/AZowHQsGHogokJYtgJgPBImk8rNoDMQuMXYQxBzqJhTO3EAkOg8HqI8OXA/EDMdkg6LBQEYmbDapgehuLwNxPzfbEGMQNDoUFRX5AzEXqU0zvIoZGHYT4/85swGA4pFEYEDjYBQD8xFVGS4SoAAAAAElFTkSuQmCC)
 ![FoxPro](https://img.shields.io/badge/FoxPro-305d98?style=for-the-badge)
 ![VisualBasic](https://img.shields.io/badge/Visual%20Basic-305d98?style=for-the-badge)
  
