@@ -12,7 +12,7 @@
 ---
 
 ### 🖥️ FrontEnd
-![Vue](https://img.shields.io/badge/Vue-53bb83?style=for-the-badge&logo=vue&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-53bb83?style=for-the-badge&logo=vuejs&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-CB1720?style=for-the-badge&logo=angular&logoColor=white)
 
