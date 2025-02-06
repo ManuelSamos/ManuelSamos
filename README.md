@@ -16,6 +16,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)
+![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/SQL_Server-Experienced-yellowgreen?style=for-the-badge)
