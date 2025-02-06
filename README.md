@@ -25,8 +25,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)
 ![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
-![FoxPro](https://img.shields.io/badge/FoxPro-8A2BE2)
-![VisualBasic](https://img.shields.io/badge/VisualBasic-305d98)
+![FoxPro](https://img.shields.io/badge/FoxPro-e57e1c?style=for-the-badge)
+![VisualBasic](https://img.shields.io/badge/VisualBasic-305d98?style=for-the-badge)
  
 
 ![SqlServer](https://img.shields.io/badge/SQL_Server-Experienced-yellowgreen?style=for-the-badge)
