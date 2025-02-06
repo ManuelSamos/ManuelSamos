@@ -26,7 +26,9 @@
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)
 ![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
 ![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-4D4DFF?style=for-the-badge&logo=https://i.imgur.com/bqSGx57.png)
-<img src="https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/foxfinal.png" style="filter: grayscale(1);" width="20">![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-4D4DFF?style=for-the-badge)
+<div style="display:flex;filter: grayscale(1);padding: 10px 0px 10px 5px;background:#DD0031;">
+<img src="https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/foxfinal.png" style="filter: grayscale(1);" width="20">![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-DD0031?style=for-the-badge)
+</div>
 ![VisualBasic](https://img.shields.io/badge/Visual%20Basic-305d98?style=for-the-badge)
  
 
