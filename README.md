@@ -11,16 +11,17 @@
 
 ---
 
-### 🖥️ FrontEnd
+### 🛠️ Tecnologías  
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 💾 BackEnd
+---
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📱 Mobile
+###
 ![Ionic](https://img.shields.io/badge/Ionic-5D80F1?style=for-the-badge&logo=ionic&logoColor=white)
 
 ### Otros
