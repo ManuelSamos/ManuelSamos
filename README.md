@@ -29,7 +29,7 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Npm](https://img.shields.io/badge/Npm-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Npm](https://img.shields.io/badge/Npm-563D7C?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Ionic](https://img.shields.io/badge/Ionic-5D80F1?style=for-the-badge&logo=ionic&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)
