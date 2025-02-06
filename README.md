@@ -32,7 +32,7 @@
 
 
 ![Npm](https://img.shields.io/badge/Npm-DD0031?style=for-the-badge&logo=npm&logoColor=white)
-![YAML](https://img.shields.io/badge/Yaml-DD0031?style=for-the-badge&logo=yaml&logoColor=white)
+![YAML](https://img.shields.io/badge/Yaml-222222?style=for-the-badge&logo=yaml&logoColor=white)
 
 ![Ionic](https://img.shields.io/badge/Ionic-5D80F1?style=for-the-badge&logo=ionic&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)
