@@ -14,8 +14,8 @@
 ### 🛠️ Tecnologías  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-CB172000?style=for-the-badge&logo=angular&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-5D80F100?style=for-the-badge&logo=ionic&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
