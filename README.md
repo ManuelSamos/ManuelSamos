@@ -22,14 +22,17 @@
 ![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
 
 
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![SqlServer](https://img.shields.io/badge/SQL_Server-Experienced-yellowgreen?style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Npm](https://img.shields.io/badge/Npm-563D7C?style=for-the-badge&logo=npm&logoColor=white)
+![Npm](https://img.shields.io/badge/Npm-DD0031?style=for-the-badge&logo=npm&logoColor=white)
+![YAML](https://img.shields.io/badge/Yaml-DD0031?style=for-the-badge&logo=yaml&logoColor=white)
 
 ![Ionic](https://img.shields.io/badge/Ionic-5D80F1?style=for-the-badge&logo=ionic&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=)
