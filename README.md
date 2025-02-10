@@ -66,4 +66,7 @@
 
 ---
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 ⭐ **¡No olvides dejar una estrella en mis proyectos si te gustan!** 🌟  
