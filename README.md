@@ -13,6 +13,35 @@
 
 ### 🛠️ Tecnologías  
 
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+### tab Articles
+
+tab content  Articles
+
+### tab Skills
+
+tab content  Skills
+
+### tab Insights
+
+tab content  Insights
+
+content below tabbed region
+
 ![HTML5](https://img.shields.io/badge/HTML5-c94c2e?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
