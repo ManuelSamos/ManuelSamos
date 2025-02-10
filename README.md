@@ -13,16 +13,6 @@
 
 ### 🛠️ Tecnologías  
 
-<details>
-  <summary>NodeJS example</summary>
-  *some NodeJS code here...*
-</details>
-
-<details>
-  <summary>RoR example</summary>
-  *some Ruby on Rails code here...*
-</details>
-
 ![HTML5](https://img.shields.io/badge/HTML5-c94c2e?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
