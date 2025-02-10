@@ -39,6 +39,7 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![NativeScript](https://img.shields.io/badge/NativeScript-65ADF1?style=for-the-badge&logo=nativescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DockerCompose](https://img.shields.io/badge/Docker%20Compose-Informational?logo=https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/cabe8942eb66cfc4853bb457db338b5d3913d30f/dockercompose2.svg&logoWidth=30&color=blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ![Andorid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
