@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills  
 
-| Skills |
+| Skills | Skills |
 | ------------- | ------------- |
 | languages  | ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)  ![HTML5](https://img.shields.io/badge/HTML5-c94c2e?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-c94c2e?style=for-the-badge&logo=sql&logoColor=white) ![C#](https://img.shields.io/badge/C#-c94c2e?style=for-the-badge&logo=c&logoColor=white) ![Basic](https://img.shields.io/badge/basic-c94c2e?style=for-the-badge&logo=basic&logoColor=white)    |
 | Content Cell  | Content Cell  |
