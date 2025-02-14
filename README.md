@@ -10,25 +10,24 @@
 
 ### 🛠️ Skills  
 
-| Skills | Skills |
+|  |  |
 | ------------- | ------------- |
-| languages  | ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000) 
-![HTML5](https://img.shields.io/badge/HTML5-c94c2e?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-c94c2e?style=for-the-badge&logo=sql&logoColor=white) ![C#](https://img.shields.io/badge/C#-c94c2e?style=for-the-badge&logo=c&logoColor=white) ![Basic](https://img.shields.io/badge/basic-c94c2e?style=for-the-badge&logo=basic&logoColor=white)    |
-| Framework   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  |
+| languages  | ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-c94c2e?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-c94c2e?style=for-the-badge&logo=sql&logoColor=white) ![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp) ![Basic](https://img.shields.io/badge/basic-c94c2e?style=for-the-badge&logo=basic&logoColor=white) ![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF) ![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-DD0031?style=for-the-badge) ![VisualBasic](https://img.shields.io/badge/Visual%20Basic-305d98?style=for-the-badge)   |
+| Framework   | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)  |
+| Library   |  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  |
+| Tools   | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)  |
 
 
 
 
 
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=373e47&logo=Vuetify&logoColor=8DD6F9&label=)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Php](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=777BB4&logoColor=FFF)
-![C--Sharp](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
-![Visual FoxPro](https://img.shields.io/badge/Visual%20FoxPro-DD0031?style=for-the-badge)
-![VisualBasic](https://img.shields.io/badge/Visual%20Basic-305d98?style=for-the-badge)
+
+
+
+
+
+
+
  
 
 ![SqlServer](https://img.shields.io/badge/SQL_Server-Experienced-yellowgreen?style=for-the-badge)
