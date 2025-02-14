@@ -2,8 +2,11 @@
 
 ### 🌟 About me
 💻 Full stack developer, passionate about technology and innovation.
+
 🚀 Lover of clean code, good practices and scalable solutions.
+
 📚 Always learning new technologies and improving my skills.
+
 
 ---
 
