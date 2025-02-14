@@ -1,8 +1,7 @@
 ![Header](https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/github-header-image.png)
 
 ### 🌟 About me
-💻 Full stack developer, passionate about technology and innovation.
-
+💻 Full stack developer, passionate about technology and innovation.  
 🚀 Lover of clean code, good practices and scalable solutions.  
 📚 Always learning new technologies and improving my skills.
 
