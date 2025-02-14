@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/github-header-image.png)
+
 <h1 align="center">Hola, soy Manuel Samos 👋🚀</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManuelSamos&label=Visitas&color=blue&style=flat" alt="profile views" />
