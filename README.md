@@ -1,15 +1,9 @@
 ![Header](https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/github-header-image.png)
 
-<h1 align="center">Hola, soy Manuel Samos 👋🚀</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManuelSamos&label=Visitas&color=blue&style=flat" alt="profile views" />
-</p>
----
-
-### 🌟 Sobre mí  
-💻 Desarrollador Full stack, apasionado por la tecnología y la innovación.  
-🚀 Amante del código limpio, las buenas prácticas y las soluciones escalables.  
-📚 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.  
+### 🌟 About me
+💻 Full stack developer, passionate about technology and innovation.
+🚀 Lover of clean code, good practices and scalable solutions.
+📚 Always learning new technologies and improving my skills.
 
 ---
 
