@@ -37,4 +37,7 @@
 ---
 
 > [!IMPORTANT]
-> ⭐ **Don't forget to leave a star on my projects if you like them!** 🌟  
+> ⭐ **Don't forget to leave a star on my projects if you like them!** 🌟
+> 
+
+![GitHub contributors](https://img.shields.io/github/contributors/ManuelSamos)
